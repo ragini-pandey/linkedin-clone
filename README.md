@@ -97,6 +97,3 @@ The provided `firebase.json` and `.firebaserc` are already in place, so you can 
 - Real-time updates
 - Profile pages and connections
 - Notifications and messaging UI
-
-## 📝 License
-This project is for educational/demo purposes. Add a license if you plan to distribute.
