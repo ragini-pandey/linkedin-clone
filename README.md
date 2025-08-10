@@ -60,7 +60,6 @@ yarn
 ### 2) Environment variables (if using Firebase services)
 Create a `.env` file at the project root:
 ```bash
-# Example - adjust with your Firebase Project settings
 REACT_APP_FIREBASE_API_KEY=YOUR_API_KEY
 REACT_APP_FIREBASE_AUTH_DOMAIN=YOUR_PROJECT.firebaseapp.com
 REACT_APP_FIREBASE_PROJECT_ID=YOUR_PROJECT_ID
