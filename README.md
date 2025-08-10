@@ -2,8 +2,12 @@
 
 A lightweight clone of LinkedIn’s feed experience built with React, Redux Toolkit, Material UI, and Firebase.
 
-## 🚀 Demo
-- Live: https://linkedin-clone-af258.web.app
+## 📸 Screenshots
+**Login Page**  
+![Login Page](https://github.com/ragini-pandey/linkedin-clone/blob/master/public/login.png)  
+
+**Landing Page**  
+![Landing Page]([./screenshots/landing-page.png](https://github.com/ragini-pandey/linkedin-clone/blob/master/public/landing.png))  
 
 ## ✨ Features
 - Modern React app bootstrapped with Create React App + Redux Toolkit
