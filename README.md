@@ -1,6 +1,6 @@
 # LinkedIn Clone
 
-A lightweight clone of LinkedIn’s feed experience built with React, Redux Toolkit, Material UI, and Firebase.
+A lightweight clone of LinkedIn’s posts, hashtags and feed feed experience built with React, Redux Toolkit, Material UI and Firebase for backend services and secure user authentication.
 
 ## 📸 Screenshots
 **Login Page**  
